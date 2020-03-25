@@ -1,0 +1,5 @@
+Using pyenv, I get a broken Python environment that lacks TCK-TK and other packages.
+
+So, I installed Python 3.latest from the website. I have this python aliased as 'p3' 
+
+p3 -m pip install --upgrade pip
